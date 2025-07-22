@@ -2571,7 +2571,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "00418436-72bc-47ca-8793-8651621bb969")
-		(property "Reference" "D51"
+		(property "Reference" "D47"
 			(at 180.467 33.02 0)
 			(effects
 				(font
@@ -2623,7 +2623,7 @@
 		(instances
 			(project "uv_led_lamp"
 				(path "/b5ec945f-2085-4e13-a10b-0761defb51ff"
-					(reference "D51")
+					(reference "D47")
 					(unit 1)
 				)
 			)
@@ -2640,7 +2640,7 @@
 		(fields_autoplaced yes)
 		(uuid "006afe8d-b276-4dcb-bb10-2156be0a68b4")
 		(property "Reference" "R23"
-			(at 231.14 97.79 90)
+			(at 231.14 85.09 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2648,14 +2648,14 @@
 			)
 		)
 		(property "Value" "R"
-			(at 231.14 95.25 90)
+			(at 231.14 87.63 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 231.14 89.662 90)
 			(effects
 				(font
@@ -2706,7 +2706,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "0357cb6b-4b89-4a0d-ad85-63a323a6e06d")
-		(property "Reference" "D50"
+		(property "Reference" "D82"
 			(at 170.307 134.62 0)
 			(effects
 				(font
@@ -2758,7 +2758,7 @@
 		(instances
 			(project "uv_led_lamp"
 				(path "/b5ec945f-2085-4e13-a10b-0761defb51ff"
-					(reference "D50")
+					(reference "D82")
 					(unit 1)
 				)
 			)
@@ -2842,7 +2842,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0aee97a6-d9a1-4de0-a84f-79857fd9db96")
-		(property "Reference" "R19"
+		(property "Reference" "R25"
 			(at 160.02 110.49 90)
 			(effects
 				(font
@@ -2858,7 +2858,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 160.02 118.618 90)
 			(effects
 				(font
@@ -2894,7 +2894,7 @@
 		(instances
 			(project "uv_led_lamp"
 				(path "/b5ec945f-2085-4e13-a10b-0761defb51ff"
-					(reference "R19")
+					(reference "R25")
 					(unit 1)
 				)
 			)
@@ -2910,7 +2910,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0f96d4cc-cdb9-48d4-ab16-674a68709e94")
-		(property "Reference" "D82"
+		(property "Reference" "D62"
 			(at 263.017 58.42 0)
 			(effects
 				(font
@@ -2962,7 +2962,7 @@
 		(instances
 			(project "uv_led_lamp"
 				(path "/b5ec945f-2085-4e13-a10b-0761defb51ff"
-					(reference "D82")
+					(reference "D62")
 					(unit 1)
 				)
 			)
@@ -3046,7 +3046,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "12e6937b-7e87-4804-9f8b-badea48b38be")
-		(property "Reference" "R17"
+		(property "Reference" "R19"
 			(at 160.02 59.69 90)
 			(effects
 				(font
@@ -3062,7 +3062,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 160.02 67.818 90)
 			(effects
 				(font
@@ -3098,7 +3098,7 @@
 		(instances
 			(project "uv_led_lamp"
 				(path "/b5ec945f-2085-4e13-a10b-0761defb51ff"
-					(reference "R17")
+					(reference "R19")
 					(unit 1)
 				)
 			)
@@ -3182,7 +3182,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "15310767-819f-4e04-8834-bf091c7ad074")
-		(property "Reference" "D40"
+		(property "Reference" "D34"
 			(at 118.237 109.22 0)
 			(effects
 				(font
@@ -3234,7 +3234,7 @@
 		(instances
 			(project "uv_led_lamp"
 				(path "/b5ec945f-2085-4e13-a10b-0761defb51ff"
-					(reference "D40")
+					(reference "D34")
 					(unit 1)
 				)
 			)
@@ -3250,8 +3250,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "186f15dd-26b3-4b86-9498-2e18204ee503")
-		(property "Reference" "D37"
-			(at 76.073 149.86 0)
+		(property "Reference" "D41"
+			(at 76.073 135.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3259,7 +3259,7 @@
 			)
 		)
 		(property "Value" "CQY99"
-			(at 76.073 147.32 0)
+			(at 76.073 138.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3302,7 +3302,7 @@
 		(instances
 			(project "uv_led_lamp"
 				(path "/b5ec945f-2085-4e13-a10b-0761defb51ff"
-					(reference "D37")
+					(reference "D41")
 					(unit 1)
 				)
 			)
@@ -3317,7 +3317,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "18a48911-f8a9-4625-8d25-42ac63ce13b7")
-		(property "Reference" "D55"
+		(property "Reference" "D83"
 			(at 180.467 134.62 0)
 			(effects
 				(font
@@ -3369,7 +3369,7 @@
 		(instances
 			(project "uv_led_lamp"
 				(path "/b5ec945f-2085-4e13-a10b-0761defb51ff"
-					(reference "D55")
+					(reference "D83")
 					(unit 1)
 				)
 			)
@@ -3385,8 +3385,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "19723370-fd05-42c6-94aa-b035a04cb34d")
-		(property "Reference" "D69"
-			(at 210.693 124.46 0)
+		(property "Reference" "D77"
+			(at 210.693 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3394,7 +3394,7 @@
 			)
 		)
 		(property "Value" "CQY99"
-			(at 210.693 121.92 0)
+			(at 210.693 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3437,7 +3437,7 @@
 		(instances
 			(project "uv_led_lamp"
 				(path "/b5ec945f-2085-4e13-a10b-0761defb51ff"
-					(reference "D69")
+					(reference "D77")
 					(unit 1)
 				)
 			)
@@ -3453,8 +3453,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1adcd7e7-7743-4ffe-b217-8590706b96e5")
-		(property "Reference" "D34"
-			(at 65.913 124.46 0)
+		(property "Reference" "D31"
+			(at 65.913 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3462,7 +3462,7 @@
 			)
 		)
 		(property "Value" "CQY99"
-			(at 65.913 121.92 0)
+			(at 65.913 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3505,7 +3505,7 @@
 		(instances
 			(project "uv_led_lamp"
 				(path "/b5ec945f-2085-4e13-a10b-0761defb51ff"
-					(reference "D34")
+					(reference "D31")
 					(unit 1)
 				)
 			)
@@ -3521,8 +3521,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1dc4aed6-ae34-4397-8671-7c26372d7f38")
-		(property "Reference" "R24"
-			(at 231.14 123.19 90)
+		(property "Reference" "R26"
+			(at 231.14 110.49 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3530,14 +3530,14 @@
 			)
 		)
 		(property "Value" "R"
-			(at 231.14 120.65 90)
+			(at 231.14 113.03 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 231.14 115.062 90)
 			(effects
 				(font
@@ -3573,7 +3573,7 @@
 		(instances
 			(project "uv_led_lamp"
 				(path "/b5ec945f-2085-4e13-a10b-0761defb51ff"
-					(reference "R24")
+					(reference "R26")
 					(unit 1)
 				)
 			)
@@ -3655,7 +3655,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1ee4527c-7bb1-4d24-a14b-36c783fc5457")
-		(property "Reference" "D89"
+		(property "Reference" "D81"
 			(at 273.177 109.22 0)
 			(effects
 				(font
@@ -3707,7 +3707,7 @@
 		(instances
 			(project "uv_led_lamp"
 				(path "/b5ec945f-2085-4e13-a10b-0761defb51ff"
-					(reference "D89")
+					(reference "D81")
 					(unit 1)
 				)
 			)
@@ -3722,7 +3722,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "221f61e8-f0ea-43ae-9c12-73ebec9e45b3")
-		(property "Reference" "D80"
+		(property "Reference" "D88"
 			(at 252.857 134.62 0)
 			(effects
 				(font
@@ -3774,7 +3774,7 @@
 		(instances
 			(project "uv_led_lamp"
 				(path "/b5ec945f-2085-4e13-a10b-0761defb51ff"
-					(reference "D80")
+					(reference "D88")
 					(unit 1)
 				)
 			)
@@ -3790,7 +3790,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "281f6d6a-0e9b-4b34-ad7a-23a475b86403")
-		(property "Reference" "R20"
+		(property "Reference" "R28"
 			(at 160.02 135.89 90)
 			(effects
 				(font
@@ -3806,7 +3806,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 160.02 144.018 90)
 			(effects
 				(font
@@ -3842,7 +3842,7 @@
 		(instances
 			(project "uv_led_lamp"
 				(path "/b5ec945f-2085-4e13-a10b-0761defb51ff"
-					(reference "R20")
+					(reference "R28")
 					(unit 1)
 				)
 			)
@@ -3858,8 +3858,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "288ffe3d-9d9a-4d70-93e2-40e07e72a37e")
-		(property "Reference" "D4"
-			(at 86.233 48.26 0)
+		(property "Reference" "D6"
+			(at 86.233 34.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3867,7 +3867,7 @@
 			)
 		)
 		(property "Value" "CQY99"
-			(at 86.233 45.72 0)
+			(at 86.233 36.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3910,7 +3910,7 @@
 		(instances
 			(project "uv_led_lamp"
 				(path "/b5ec945f-2085-4e13-a10b-0761defb51ff"
-					(reference "D4")
+					(reference "D6")
 					(unit 1)
 				)
 			)
@@ -3993,7 +3993,7 @@
 		(fields_autoplaced yes)
 		(uuid "2bb09653-e4a8-4e92-9b7f-c39800858ecc")
 		(property "Reference" "D22"
-			(at 65.913 99.06 0)
+			(at 65.913 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4001,7 +4001,7 @@
 			)
 		)
 		(property "Value" "CQY99"
-			(at 65.913 96.52 0)
+			(at 65.913 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4060,7 +4060,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2c64ee2f-a5db-48d0-a722-18a6dc051c99")
-		(property "Reference" "D83"
+		(property "Reference" "D71"
 			(at 263.017 83.82 0)
 			(effects
 				(font
@@ -4112,7 +4112,7 @@
 		(instances
 			(project "uv_led_lamp"
 				(path "/b5ec945f-2085-4e13-a10b-0761defb51ff"
-					(reference "D83")
+					(reference "D71")
 					(unit 1)
 				)
 			)
@@ -4144,7 +4144,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 96.52 38.862 90)
 			(effects
 				(font
@@ -4262,7 +4262,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "318e6093-ae10-45fc-835a-1aa49719a4bc")
-		(property "Reference" "R14"
+		(property "Reference" "R12"
 			(at 107.95 110.49 90)
 			(effects
 				(font
@@ -4278,7 +4278,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 107.95 118.618 90)
 			(effects
 				(font
@@ -4314,7 +4314,7 @@
 		(instances
 			(project "uv_led_lamp"
 				(path "/b5ec945f-2085-4e13-a10b-0761defb51ff"
-					(reference "R14")
+					(reference "R12")
 					(unit 1)
 				)
 			)
@@ -4346,7 +4346,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 242.57 144.018 90)
 			(effects
 				(font
@@ -4414,7 +4414,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 107.95 144.018 90)
 			(effects
 				(font
@@ -4465,7 +4465,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "3af93d54-db7b-464b-9fd0-37de2b489348")
-		(property "Reference" "D43"
+		(property "Reference" "D44"
 			(at 128.397 134.62 0)
 			(effects
 				(font
@@ -4517,7 +4517,7 @@
 		(instances
 			(project "uv_led_lamp"
 				(path "/b5ec945f-2085-4e13-a10b-0761defb51ff"
-					(reference "D43")
+					(reference "D44")
 					(unit 1)
 				)
 			)
@@ -4533,8 +4533,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "445cf57c-25ed-49bf-9bd7-280e79dda76d")
-		(property "Reference" "R13"
-			(at 96.52 148.59 90)
+		(property "Reference" "R14"
+			(at 96.52 135.89 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4542,14 +4542,14 @@
 			)
 		)
 		(property "Value" "R"
-			(at 96.52 146.05 90)
+			(at 96.52 138.43 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 96.52 140.462 90)
 			(effects
 				(font
@@ -4585,7 +4585,7 @@
 		(instances
 			(project "uv_led_lamp"
 				(path "/b5ec945f-2085-4e13-a10b-0761defb51ff"
-					(reference "R13")
+					(reference "R14")
 					(unit 1)
 				)
 			)
@@ -4668,7 +4668,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "45b607c6-a91c-4660-b07a-fc8f82e33d14")
-		(property "Reference" "D41"
+		(property "Reference" "D43"
 			(at 118.237 134.62 0)
 			(effects
 				(font
@@ -4720,7 +4720,7 @@
 		(instances
 			(project "uv_led_lamp"
 				(path "/b5ec945f-2085-4e13-a10b-0761defb51ff"
-					(reference "D41")
+					(reference "D43")
 					(unit 1)
 				)
 			)
@@ -4804,7 +4804,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4f71d85a-766f-4e3a-b571-f741140cb20e")
-		(property "Reference" "D81"
+		(property "Reference" "D53"
 			(at 263.017 33.02 0)
 			(effects
 				(font
@@ -4856,7 +4856,7 @@
 		(instances
 			(project "uv_led_lamp"
 				(path "/b5ec945f-2085-4e13-a10b-0761defb51ff"
-					(reference "D81")
+					(reference "D53")
 					(unit 1)
 				)
 			)
@@ -4872,8 +4872,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "52087450-427e-4b92-a324-b850242ac0b9")
-		(property "Reference" "R21"
-			(at 231.14 46.99 90)
+		(property "Reference" "R17"
+			(at 231.14 34.29 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4881,14 +4881,14 @@
 			)
 		)
 		(property "Value" "R"
-			(at 231.14 44.45 90)
+			(at 231.14 36.83 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 231.14 38.862 90)
 			(effects
 				(font
@@ -4924,7 +4924,7 @@
 		(instances
 			(project "uv_led_lamp"
 				(path "/b5ec945f-2085-4e13-a10b-0761defb51ff"
-					(reference "R21")
+					(reference "R17")
 					(unit 1)
 				)
 			)
@@ -4940,8 +4940,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "53a77cbb-ed1c-4a11-a5af-3fc6dd55e7b6")
-		(property "Reference" "D75"
-			(at 220.853 149.86 0)
+		(property "Reference" "D87"
+			(at 220.853 135.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4949,7 +4949,7 @@
 			)
 		)
 		(property "Value" "CQY99"
-			(at 220.853 147.32 0)
+			(at 220.853 138.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4992,7 +4992,7 @@
 		(instances
 			(project "uv_led_lamp"
 				(path "/b5ec945f-2085-4e13-a10b-0761defb51ff"
-					(reference "D75")
+					(reference "D87")
 					(unit 1)
 				)
 			)
@@ -5008,8 +5008,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "55576fcc-0ee2-4724-b81e-59b9823582e8")
-		(property "Reference" "D39"
-			(at 86.233 149.86 0)
+		(property "Reference" "D42"
+			(at 86.233 135.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5017,7 +5017,7 @@
 			)
 		)
 		(property "Value" "CQY99"
-			(at 86.233 147.32 0)
+			(at 86.233 138.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5060,7 +5060,7 @@
 		(instances
 			(project "uv_led_lamp"
 				(path "/b5ec945f-2085-4e13-a10b-0761defb51ff"
-					(reference "D39")
+					(reference "D42")
 					(unit 1)
 				)
 			)
@@ -5076,8 +5076,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5826d046-04b9-4e58-a160-95ee822a6558")
-		(property "Reference" "D6"
-			(at 65.913 48.26 0)
+		(property "Reference" "D4"
+			(at 65.913 34.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5085,7 +5085,7 @@
 			)
 		)
 		(property "Value" "CQY99"
-			(at 65.913 45.72 0)
+			(at 65.913 36.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5128,7 +5128,7 @@
 		(instances
 			(project "uv_led_lamp"
 				(path "/b5ec945f-2085-4e13-a10b-0761defb51ff"
-					(reference "D6")
+					(reference "D4")
 					(unit 1)
 				)
 			)
@@ -5144,7 +5144,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "58fbb9bc-c196-4870-becd-f28f1ebac160")
-		(property "Reference" "R29"
+		(property "Reference" "R27"
 			(at 242.57 110.49 90)
 			(effects
 				(font
@@ -5160,7 +5160,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 242.57 118.618 90)
 			(effects
 				(font
@@ -5196,7 +5196,7 @@
 		(instances
 			(project "uv_led_lamp"
 				(path "/b5ec945f-2085-4e13-a10b-0761defb51ff"
-					(reference "R29")
+					(reference "R27")
 					(unit 1)
 				)
 			)
@@ -5212,8 +5212,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "59ee520c-68fa-4343-9128-19688909dbcb")
-		(property "Reference" "D36"
-			(at 76.073 124.46 0)
+		(property "Reference" "D32"
+			(at 76.073 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5221,7 +5221,7 @@
 			)
 		)
 		(property "Value" "CQY99"
-			(at 76.073 121.92 0)
+			(at 76.073 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5264,7 +5264,7 @@
 		(instances
 			(project "uv_led_lamp"
 				(path "/b5ec945f-2085-4e13-a10b-0761defb51ff"
-					(reference "D36")
+					(reference "D32")
 					(unit 1)
 				)
 			)
@@ -5280,8 +5280,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5bc67e45-cf43-4d3f-9c6b-2c096428dd94")
-		(property "Reference" "D61"
-			(at 200.533 48.26 0)
+		(property "Reference" "D49"
+			(at 200.533 34.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5289,7 +5289,7 @@
 			)
 		)
 		(property "Value" "CQY99"
-			(at 200.533 45.72 0)
+			(at 200.533 36.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5332,7 +5332,7 @@
 		(instances
 			(project "uv_led_lamp"
 				(path "/b5ec945f-2085-4e13-a10b-0761defb51ff"
-					(reference "D61")
+					(reference "D49")
 					(unit 1)
 				)
 			)
@@ -5348,7 +5348,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6037c9d9-99d0-4835-ba33-8c3d29078e94")
-		(property "Reference" "D49"
+		(property "Reference" "D73"
 			(at 170.307 109.22 0)
 			(effects
 				(font
@@ -5400,7 +5400,7 @@
 		(instances
 			(project "uv_led_lamp"
 				(path "/b5ec945f-2085-4e13-a10b-0761defb51ff"
-					(reference "D49")
+					(reference "D73")
 					(unit 1)
 				)
 			)
@@ -5417,7 +5417,7 @@
 		(fields_autoplaced yes)
 		(uuid "61e30f23-9f8b-47eb-9ba4-6fc5b9053664")
 		(property "Reference" "D24"
-			(at 86.233 99.06 0)
+			(at 86.233 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5425,7 +5425,7 @@
 			)
 		)
 		(property "Value" "CQY99"
-			(at 86.233 96.52 0)
+			(at 86.233 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5552,7 +5552,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "66211d81-95f7-47ce-9805-1654cb37989a")
-		(property "Reference" "D52"
+		(property "Reference" "D56"
 			(at 180.467 58.42 0)
 			(effects
 				(font
@@ -5604,7 +5604,7 @@
 		(instances
 			(project "uv_led_lamp"
 				(path "/b5ec945f-2085-4e13-a10b-0761defb51ff"
-					(reference "D52")
+					(reference "D56")
 					(unit 1)
 				)
 			)
@@ -5619,7 +5619,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "665f8466-d151-43dc-9e2c-28c974bb3c1c")
-		(property "Reference" "D60"
+		(property "Reference" "D84"
 			(at 190.627 134.62 0)
 			(effects
 				(font
@@ -5671,7 +5671,7 @@
 		(instances
 			(project "uv_led_lamp"
 				(path "/b5ec945f-2085-4e13-a10b-0761defb51ff"
-					(reference "D60")
+					(reference "D84")
 					(unit 1)
 				)
 			)
@@ -5687,7 +5687,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "671fc91e-dcb8-4aff-8b06-77a9fe07f131")
-		(property "Reference" "R27"
+		(property "Reference" "R21"
 			(at 242.57 59.69 90)
 			(effects
 				(font
@@ -5703,7 +5703,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 242.57 67.818 90)
 			(effects
 				(font
@@ -5739,7 +5739,7 @@
 		(instances
 			(project "uv_led_lamp"
 				(path "/b5ec945f-2085-4e13-a10b-0761defb51ff"
-					(reference "R27")
+					(reference "R21")
 					(unit 1)
 				)
 			)
@@ -5823,8 +5823,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6aac3851-cc3e-43a6-89f5-76afe8c660af")
-		(property "Reference" "D65"
-			(at 200.533 149.86 0)
+		(property "Reference" "D85"
+			(at 200.533 135.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5832,7 +5832,7 @@
 			)
 		)
 		(property "Value" "CQY99"
-			(at 200.533 147.32 0)
+			(at 200.533 138.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5875,7 +5875,7 @@
 		(instances
 			(project "uv_led_lamp"
 				(path "/b5ec945f-2085-4e13-a10b-0761defb51ff"
-					(reference "D65")
+					(reference "D85")
 					(unit 1)
 				)
 			)
@@ -5891,8 +5891,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "754f8203-8aca-47f9-bef5-227c9411f1cc")
-		(property "Reference" "D74"
-			(at 220.853 124.46 0)
+		(property "Reference" "D78"
+			(at 220.853 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5900,7 +5900,7 @@
 			)
 		)
 		(property "Value" "CQY99"
-			(at 220.853 121.92 0)
+			(at 220.853 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5943,7 +5943,7 @@
 		(instances
 			(project "uv_led_lamp"
 				(path "/b5ec945f-2085-4e13-a10b-0761defb51ff"
-					(reference "D74")
+					(reference "D78")
 					(unit 1)
 				)
 			)
@@ -5959,7 +5959,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "77b58ac7-ca1f-4e31-b321-97706c3c55e1")
-		(property "Reference" "D78"
+		(property "Reference" "D70"
 			(at 252.857 83.82 0)
 			(effects
 				(font
@@ -6011,7 +6011,7 @@
 		(instances
 			(project "uv_led_lamp"
 				(path "/b5ec945f-2085-4e13-a10b-0761defb51ff"
-					(reference "D78")
+					(reference "D70")
 					(unit 1)
 				)
 			)
@@ -6043,7 +6043,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 25.4 42.418 90)
 			(effects
 				(font
@@ -6095,7 +6095,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7c409426-4c98-423c-9e63-04b8e5f2003b")
-		(property "Reference" "D53"
+		(property "Reference" "D65"
 			(at 180.467 83.82 0)
 			(effects
 				(font
@@ -6147,7 +6147,7 @@
 		(instances
 			(project "uv_led_lamp"
 				(path "/b5ec945f-2085-4e13-a10b-0761defb51ff"
-					(reference "D53")
+					(reference "D65")
 					(unit 1)
 				)
 			)
@@ -6163,8 +6163,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7c46c8b5-9888-4408-95f2-b40e8cc982a6")
-		(property "Reference" "D62"
-			(at 200.533 73.66 0)
+		(property "Reference" "D58"
+			(at 200.533 59.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6172,7 +6172,7 @@
 			)
 		)
 		(property "Value" "CQY99"
-			(at 200.533 71.12 0)
+			(at 200.533 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6215,7 +6215,7 @@
 		(instances
 			(project "uv_led_lamp"
 				(path "/b5ec945f-2085-4e13-a10b-0761defb51ff"
-					(reference "D62")
+					(reference "D58")
 					(unit 1)
 				)
 			)
@@ -6231,8 +6231,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7cfb28ae-7002-46f7-a008-ef516505d0b7")
-		(property "Reference" "D67"
-			(at 210.693 73.66 0)
+		(property "Reference" "D59"
+			(at 210.693 59.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6240,7 +6240,7 @@
 			)
 		)
 		(property "Value" "CQY99"
-			(at 210.693 71.12 0)
+			(at 210.693 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6283,7 +6283,7 @@
 		(instances
 			(project "uv_led_lamp"
 				(path "/b5ec945f-2085-4e13-a10b-0761defb51ff"
-					(reference "D67")
+					(reference "D59")
 					(unit 1)
 				)
 			)
@@ -6299,7 +6299,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7d4b0cbe-acda-44a5-b1e8-8ba212d8ac83")
-		(property "Reference" "D7"
+		(property "Reference" "D9"
 			(at 138.557 33.02 0)
 			(effects
 				(font
@@ -6351,7 +6351,7 @@
 		(instances
 			(project "uv_led_lamp"
 				(path "/b5ec945f-2085-4e13-a10b-0761defb51ff"
-					(reference "D7")
+					(reference "D9")
 					(unit 1)
 				)
 			)
@@ -6367,8 +6367,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "80b39bef-2591-4751-99e6-4aebae3bedf3")
-		(property "Reference" "D71"
-			(at 220.853 48.26 0)
+		(property "Reference" "D51"
+			(at 220.853 34.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6376,7 +6376,7 @@
 			)
 		)
 		(property "Value" "CQY99"
-			(at 220.853 45.72 0)
+			(at 220.853 36.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6419,7 +6419,7 @@
 		(instances
 			(project "uv_led_lamp"
 				(path "/b5ec945f-2085-4e13-a10b-0761defb51ff"
-					(reference "D71")
+					(reference "D51")
 					(unit 1)
 				)
 			)
@@ -6451,7 +6451,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 160.02 42.418 90)
 			(effects
 				(font
@@ -6503,8 +6503,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "80f07814-317f-4a2b-8bf1-bcb3a67dce77")
-		(property "Reference" "D35"
-			(at 65.913 149.86 0)
+		(property "Reference" "D40"
+			(at 65.913 135.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6512,7 +6512,7 @@
 			)
 		)
 		(property "Value" "CQY99"
-			(at 65.913 147.32 0)
+			(at 65.913 138.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6555,7 +6555,7 @@
 		(instances
 			(project "uv_led_lamp"
 				(path "/b5ec945f-2085-4e13-a10b-0761defb51ff"
-					(reference "D35")
+					(reference "D40")
 					(unit 1)
 				)
 			)
@@ -6705,7 +6705,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8970dfd8-275f-45d0-b6bf-9394d4a79fa6")
-		(property "Reference" "D58"
+		(property "Reference" "D66"
 			(at 190.627 83.82 0)
 			(effects
 				(font
@@ -6757,7 +6757,7 @@
 		(instances
 			(project "uv_led_lamp"
 				(path "/b5ec945f-2085-4e13-a10b-0761defb51ff"
-					(reference "D58")
+					(reference "D66")
 					(unit 1)
 				)
 			)
@@ -6773,7 +6773,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "89eea89c-c408-4625-9f9c-d098dd13a415")
-		(property "Reference" "D48"
+		(property "Reference" "D64"
 			(at 170.307 83.82 0)
 			(effects
 				(font
@@ -6825,7 +6825,7 @@
 		(instances
 			(project "uv_led_lamp"
 				(path "/b5ec945f-2085-4e13-a10b-0761defb51ff"
-					(reference "D48")
+					(reference "D64")
 					(unit 1)
 				)
 			)
@@ -6842,7 +6842,7 @@
 		(fields_autoplaced yes)
 		(uuid "8fd6d389-dfda-4a03-89db-5bee958ab6c7")
 		(property "Reference" "D14"
-			(at 76.073 73.66 0)
+			(at 76.073 59.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6850,7 +6850,7 @@
 			)
 		)
 		(property "Value" "CQY99"
-			(at 76.073 71.12 0)
+			(at 76.073 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6910,7 +6910,7 @@
 		(fields_autoplaced yes)
 		(uuid "921d3fd3-18db-4685-a4bf-e7d3c440182f")
 		(property "Reference" "D23"
-			(at 76.073 99.06 0)
+			(at 76.073 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6918,7 +6918,7 @@
 			)
 		)
 		(property "Value" "CQY99"
-			(at 76.073 96.52 0)
+			(at 76.073 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6977,7 +6977,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "93c12366-02c3-405b-862a-e3738a738907")
-		(property "Reference" "R11"
+		(property "Reference" "R13"
 			(at 25.4 135.89 90)
 			(effects
 				(font
@@ -6993,7 +6993,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 25.4 144.018 90)
 			(effects
 				(font
@@ -7029,7 +7029,7 @@
 		(instances
 			(project "uv_led_lamp"
 				(path "/b5ec945f-2085-4e13-a10b-0761defb51ff"
-					(reference "R11")
+					(reference "R13")
 					(unit 1)
 				)
 			)
@@ -7045,7 +7045,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "94e91298-38d9-4c12-b125-95b5128987b4")
-		(property "Reference" "D32"
+		(property "Reference" "D30"
 			(at 56.007 109.22 0)
 			(effects
 				(font
@@ -7097,7 +7097,7 @@
 		(instances
 			(project "uv_led_lamp"
 				(path "/b5ec945f-2085-4e13-a10b-0761defb51ff"
-					(reference "D32")
+					(reference "D30")
 					(unit 1)
 				)
 			)
@@ -7113,7 +7113,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9c08d4ec-7d04-4d54-8777-609789b13446")
-		(property "Reference" "D59"
+		(property "Reference" "D75"
 			(at 190.627 109.22 0)
 			(effects
 				(font
@@ -7165,7 +7165,7 @@
 		(instances
 			(project "uv_led_lamp"
 				(path "/b5ec945f-2085-4e13-a10b-0761defb51ff"
-					(reference "D59")
+					(reference "D75")
 					(unit 1)
 				)
 			)
@@ -7197,7 +7197,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 96.52 89.662 90)
 			(effects
 				(font
@@ -7249,7 +7249,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9d37a7ee-faca-4db3-b3fe-6768d1d1382d")
-		(property "Reference" "D30"
+		(property "Reference" "D29"
 			(at 45.847 109.22 0)
 			(effects
 				(font
@@ -7301,7 +7301,7 @@
 		(instances
 			(project "uv_led_lamp"
 				(path "/b5ec945f-2085-4e13-a10b-0761defb51ff"
-					(reference "D30")
+					(reference "D29")
 					(unit 1)
 				)
 			)
@@ -7318,7 +7318,7 @@
 		(fields_autoplaced yes)
 		(uuid "9f5032f3-645a-459d-8208-bfe96a6dcc5d")
 		(property "Reference" "D15"
-			(at 86.233 73.66 0)
+			(at 86.233 59.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7326,7 +7326,7 @@
 			)
 		)
 		(property "Value" "CQY99"
-			(at 86.233 71.12 0)
+			(at 86.233 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7385,7 +7385,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a05878a3-8687-4ec0-acc0-d3ac6958d17f")
-		(property "Reference" "R18"
+		(property "Reference" "R22"
 			(at 160.02 85.09 90)
 			(effects
 				(font
@@ -7401,7 +7401,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 160.02 93.218 90)
 			(effects
 				(font
@@ -7437,7 +7437,7 @@
 		(instances
 			(project "uv_led_lamp"
 				(path "/b5ec945f-2085-4e13-a10b-0761defb51ff"
-					(reference "R18")
+					(reference "R22")
 					(unit 1)
 				)
 			)
@@ -7520,7 +7520,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a199f120-b2ac-4003-bb84-02111aa2a479")
-		(property "Reference" "D44"
+		(property "Reference" "D36"
 			(at 138.557 109.22 0)
 			(effects
 				(font
@@ -7572,7 +7572,7 @@
 		(instances
 			(project "uv_led_lamp"
 				(path "/b5ec945f-2085-4e13-a10b-0761defb51ff"
-					(reference "D44")
+					(reference "D36")
 					(unit 1)
 				)
 			)
@@ -7792,8 +7792,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a94ab737-05f7-48bd-a260-bafa9a2d1a0c")
-		(property "Reference" "D70"
-			(at 210.693 149.86 0)
+		(property "Reference" "D86"
+			(at 210.693 135.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7801,7 +7801,7 @@
 			)
 		)
 		(property "Value" "CQY99"
-			(at 210.693 147.32 0)
+			(at 210.693 138.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7844,7 +7844,7 @@
 		(instances
 			(project "uv_led_lamp"
 				(path "/b5ec945f-2085-4e13-a10b-0761defb51ff"
-					(reference "D70")
+					(reference "D86")
 					(unit 1)
 				)
 			)
@@ -7876,7 +7876,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 107.95 67.818 90)
 			(effects
 				(font
@@ -7993,7 +7993,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "adde8e1c-84f4-4939-b3d3-17a0d5f5ab5d")
-		(property "Reference" "D85"
+		(property "Reference" "D89"
 			(at 263.017 134.62 0)
 			(effects
 				(font
@@ -8045,7 +8045,7 @@
 		(instances
 			(project "uv_led_lamp"
 				(path "/b5ec945f-2085-4e13-a10b-0761defb51ff"
-					(reference "D85")
+					(reference "D89")
 					(unit 1)
 				)
 			)
@@ -8144,7 +8144,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 107.95 93.218 90)
 			(effects
 				(font
@@ -8197,7 +8197,7 @@
 		(fields_autoplaced yes)
 		(uuid "b7bfd21c-d4fe-42bd-ad6a-12d4e878c70e")
 		(property "Reference" "D5"
-			(at 76.073 48.26 0)
+			(at 76.073 34.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8205,7 +8205,7 @@
 			)
 		)
 		(property "Value" "CQY99"
-			(at 76.073 45.72 0)
+			(at 76.073 36.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8332,8 +8332,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "bbf07fc1-bcbe-4563-b6ad-23cc0f1991a4")
-		(property "Reference" "R12"
-			(at 96.52 123.19 90)
+		(property "Reference" "R11"
+			(at 96.52 110.49 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8341,14 +8341,14 @@
 			)
 		)
 		(property "Value" "R"
-			(at 96.52 120.65 90)
+			(at 96.52 113.03 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 96.52 115.062 90)
 			(effects
 				(font
@@ -8384,7 +8384,7 @@
 		(instances
 			(project "uv_led_lamp"
 				(path "/b5ec945f-2085-4e13-a10b-0761defb51ff"
-					(reference "R12")
+					(reference "R11")
 					(unit 1)
 				)
 			)
@@ -8603,7 +8603,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "bf2f4606-8b72-4832-b299-44de57f56e9a")
-		(property "Reference" "D33"
+		(property "Reference" "D39"
 			(at 56.007 134.62 0)
 			(effects
 				(font
@@ -8655,7 +8655,7 @@
 		(instances
 			(project "uv_led_lamp"
 				(path "/b5ec945f-2085-4e13-a10b-0761defb51ff"
-					(reference "D33")
+					(reference "D39")
 					(unit 1)
 				)
 			)
@@ -8671,8 +8671,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "bff38df2-a156-403b-a20a-5de4197d81a2")
-		(property "Reference" "D64"
-			(at 200.533 124.46 0)
+		(property "Reference" "D76"
+			(at 200.533 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8680,7 +8680,7 @@
 			)
 		)
 		(property "Value" "CQY99"
-			(at 200.533 121.92 0)
+			(at 200.533 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8723,7 +8723,7 @@
 		(instances
 			(project "uv_led_lamp"
 				(path "/b5ec945f-2085-4e13-a10b-0761defb51ff"
-					(reference "D64")
+					(reference "D76")
 					(unit 1)
 				)
 			)
@@ -8739,7 +8739,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c0aea8e8-420a-4e49-b393-50df6a6ba2bf")
-		(property "Reference" "D56"
+		(property "Reference" "D48"
 			(at 190.627 33.02 0)
 			(effects
 				(font
@@ -8791,7 +8791,7 @@
 		(instances
 			(project "uv_led_lamp"
 				(path "/b5ec945f-2085-4e13-a10b-0761defb51ff"
-					(reference "D56")
+					(reference "D48")
 					(unit 1)
 				)
 			)
@@ -8807,8 +8807,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c0c9f0a6-9f38-4d5f-b6ae-349dbd2cb745")
-		(property "Reference" "D73"
-			(at 220.853 99.06 0)
+		(property "Reference" "D69"
+			(at 220.853 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8816,7 +8816,7 @@
 			)
 		)
 		(property "Value" "CQY99"
-			(at 220.853 96.52 0)
+			(at 220.853 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8859,7 +8859,7 @@
 		(instances
 			(project "uv_led_lamp"
 				(path "/b5ec945f-2085-4e13-a10b-0761defb51ff"
-					(reference "D73")
+					(reference "D69")
 					(unit 1)
 				)
 			)
@@ -8875,7 +8875,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c26ab72c-701c-4d9c-8b2e-852faa80ad1a")
-		(property "Reference" "D42"
+		(property "Reference" "D35"
 			(at 128.397 109.22 0)
 			(effects
 				(font
@@ -8927,7 +8927,7 @@
 		(instances
 			(project "uv_led_lamp"
 				(path "/b5ec945f-2085-4e13-a10b-0761defb51ff"
-					(reference "D42")
+					(reference "D35")
 					(unit 1)
 				)
 			)
@@ -8943,7 +8943,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c2b03549-751f-4e63-b660-519101f8833f")
-		(property "Reference" "R28"
+		(property "Reference" "R24"
 			(at 242.57 85.09 90)
 			(effects
 				(font
@@ -8959,7 +8959,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 242.57 93.218 90)
 			(effects
 				(font
@@ -8995,7 +8995,7 @@
 		(instances
 			(project "uv_led_lamp"
 				(path "/b5ec945f-2085-4e13-a10b-0761defb51ff"
-					(reference "R28")
+					(reference "R24")
 					(unit 1)
 				)
 			)
@@ -9027,7 +9027,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 107.95 42.418 90)
 			(effects
 				(font
@@ -9080,7 +9080,7 @@
 		(fields_autoplaced yes)
 		(uuid "c69c6ce0-b4cb-4a21-a0c2-6b0261821785")
 		(property "Reference" "D13"
-			(at 65.913 73.66 0)
+			(at 65.913 59.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9088,7 +9088,7 @@
 			)
 		)
 		(property "Value" "CQY99"
-			(at 65.913 71.12 0)
+			(at 65.913 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9147,7 +9147,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c95a39e2-3a81-4ba9-a263-ba36f6e0309c")
-		(property "Reference" "D77"
+		(property "Reference" "D61"
 			(at 252.857 58.42 0)
 			(effects
 				(font
@@ -9199,7 +9199,7 @@
 		(instances
 			(project "uv_led_lamp"
 				(path "/b5ec945f-2085-4e13-a10b-0761defb51ff"
-					(reference "D77")
+					(reference "D61")
 					(unit 1)
 				)
 			)
@@ -9349,7 +9349,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "cc529a64-d553-4689-8751-02ce13fbc2c7")
-		(property "Reference" "D47"
+		(property "Reference" "D55"
 			(at 170.307 58.42 0)
 			(effects
 				(font
@@ -9401,7 +9401,7 @@
 		(instances
 			(project "uv_led_lamp"
 				(path "/b5ec945f-2085-4e13-a10b-0761defb51ff"
-					(reference "D47")
+					(reference "D55")
 					(unit 1)
 				)
 			)
@@ -9417,7 +9417,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "cca1be5d-25d8-4b5c-8fe3-02d155657950")
-		(property "Reference" "D86"
+		(property "Reference" "D54"
 			(at 273.177 33.02 0)
 			(effects
 				(font
@@ -9469,7 +9469,7 @@
 		(instances
 			(project "uv_led_lamp"
 				(path "/b5ec945f-2085-4e13-a10b-0761defb51ff"
-					(reference "D86")
+					(reference "D54")
 					(unit 1)
 				)
 			)
@@ -9484,7 +9484,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "cdee701c-ef22-444b-89a1-24b9ce4788bb")
-		(property "Reference" "D29"
+		(property "Reference" "D37"
 			(at 35.687 134.62 0)
 			(effects
 				(font
@@ -9536,7 +9536,7 @@
 		(instances
 			(project "uv_led_lamp"
 				(path "/b5ec945f-2085-4e13-a10b-0761defb51ff"
-					(reference "D29")
+					(reference "D37")
 					(unit 1)
 				)
 			)
@@ -9552,8 +9552,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ce5a9796-47d0-457f-add3-162c22821ce6")
-		(property "Reference" "D66"
-			(at 210.693 48.26 0)
+		(property "Reference" "D50"
+			(at 210.693 34.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9561,7 +9561,7 @@
 			)
 		)
 		(property "Value" "CQY99"
-			(at 210.693 45.72 0)
+			(at 210.693 36.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9604,7 +9604,7 @@
 		(instances
 			(project "uv_led_lamp"
 				(path "/b5ec945f-2085-4e13-a10b-0761defb51ff"
-					(reference "D66")
+					(reference "D50")
 					(unit 1)
 				)
 			)
@@ -9620,7 +9620,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d2a339a0-370b-4580-818f-db81bc410f6f")
-		(property "Reference" "R26"
+		(property "Reference" "R18"
 			(at 242.57 34.29 90)
 			(effects
 				(font
@@ -9636,7 +9636,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 242.57 42.418 90)
 			(effects
 				(font
@@ -9672,7 +9672,7 @@
 		(instances
 			(project "uv_led_lamp"
 				(path "/b5ec945f-2085-4e13-a10b-0761defb51ff"
-					(reference "R26")
+					(reference "R18")
 					(unit 1)
 				)
 			)
@@ -9687,7 +9687,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "d5b91cca-2df6-4234-a5a9-c070621dc2de")
-		(property "Reference" "D31"
+		(property "Reference" "D38"
 			(at 45.847 134.62 0)
 			(effects
 				(font
@@ -9739,7 +9739,7 @@
 		(instances
 			(project "uv_led_lamp"
 				(path "/b5ec945f-2085-4e13-a10b-0761defb51ff"
-					(reference "D31")
+					(reference "D38")
 					(unit 1)
 				)
 			)
@@ -9771,7 +9771,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 25.4 93.218 90)
 			(effects
 				(font
@@ -9823,7 +9823,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d6a6b492-09cc-41c6-838c-175f5da02622")
-		(property "Reference" "D76"
+		(property "Reference" "D52"
 			(at 252.857 33.02 0)
 			(effects
 				(font
@@ -9875,7 +9875,7 @@
 		(instances
 			(project "uv_led_lamp"
 				(path "/b5ec945f-2085-4e13-a10b-0761defb51ff"
-					(reference "D76")
+					(reference "D52")
 					(unit 1)
 				)
 			)
@@ -10023,8 +10023,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "dc7ae063-349f-450c-a17e-141991e1e56c")
-		(property "Reference" "R25"
-			(at 231.14 148.59 90)
+		(property "Reference" "R29"
+			(at 231.14 135.89 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10032,14 +10032,14 @@
 			)
 		)
 		(property "Value" "R"
-			(at 231.14 146.05 90)
+			(at 231.14 138.43 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 231.14 140.462 90)
 			(effects
 				(font
@@ -10075,7 +10075,7 @@
 		(instances
 			(project "uv_led_lamp"
 				(path "/b5ec945f-2085-4e13-a10b-0761defb51ff"
-					(reference "R25")
+					(reference "R29")
 					(unit 1)
 				)
 			)
@@ -10091,7 +10091,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "dcccf4dd-b403-4fa1-b8c1-84307f4f8990")
-		(property "Reference" "D54"
+		(property "Reference" "D74"
 			(at 180.467 109.22 0)
 			(effects
 				(font
@@ -10143,7 +10143,7 @@
 		(instances
 			(project "uv_led_lamp"
 				(path "/b5ec945f-2085-4e13-a10b-0761defb51ff"
-					(reference "D54")
+					(reference "D74")
 					(unit 1)
 				)
 			)
@@ -10227,8 +10227,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e3282df9-b9c6-4225-be60-7b2dbb7912a2")
-		(property "Reference" "D63"
-			(at 200.533 99.06 0)
+		(property "Reference" "D67"
+			(at 200.533 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10236,7 +10236,7 @@
 			)
 		)
 		(property "Value" "CQY99"
-			(at 200.533 96.52 0)
+			(at 200.533 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10279,7 +10279,7 @@
 		(instances
 			(project "uv_led_lamp"
 				(path "/b5ec945f-2085-4e13-a10b-0761defb51ff"
-					(reference "D63")
+					(reference "D67")
 					(unit 1)
 				)
 			)
@@ -10295,7 +10295,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e7d7e647-140c-4119-92ec-4f4c4ee6aca8")
-		(property "Reference" "D9"
+		(property "Reference" "D7"
 			(at 118.237 33.02 0)
 			(effects
 				(font
@@ -10347,7 +10347,7 @@
 		(instances
 			(project "uv_led_lamp"
 				(path "/b5ec945f-2085-4e13-a10b-0761defb51ff"
-					(reference "D9")
+					(reference "D7")
 					(unit 1)
 				)
 			)
@@ -10431,7 +10431,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ea8fc281-8b9d-4c1a-ab04-c91ddbd296dd")
-		(property "Reference" "D87"
+		(property "Reference" "D63"
 			(at 273.177 58.42 0)
 			(effects
 				(font
@@ -10483,7 +10483,7 @@
 		(instances
 			(project "uv_led_lamp"
 				(path "/b5ec945f-2085-4e13-a10b-0761defb51ff"
-					(reference "D87")
+					(reference "D63")
 					(unit 1)
 				)
 			)
@@ -10515,7 +10515,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 25.4 67.818 90)
 			(effects
 				(font
@@ -10651,7 +10651,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 96.52 64.262 90)
 			(effects
 				(font
@@ -10703,8 +10703,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f026f592-d315-4566-84f6-0837c7046612")
-		(property "Reference" "R22"
-			(at 231.14 72.39 90)
+		(property "Reference" "R20"
+			(at 231.14 59.69 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10712,14 +10712,14 @@
 			)
 		)
 		(property "Value" "R"
-			(at 231.14 69.85 90)
+			(at 231.14 62.23 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 231.14 64.262 90)
 			(effects
 				(font
@@ -10755,7 +10755,7 @@
 		(instances
 			(project "uv_led_lamp"
 				(path "/b5ec945f-2085-4e13-a10b-0761defb51ff"
-					(reference "R22")
+					(reference "R20")
 					(unit 1)
 				)
 			)
@@ -10771,8 +10771,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f030d281-c953-4e73-842d-1db174d1521a")
-		(property "Reference" "D72"
-			(at 220.853 73.66 0)
+		(property "Reference" "D60"
+			(at 220.853 59.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10780,7 +10780,7 @@
 			)
 		)
 		(property "Value" "CQY99"
-			(at 220.853 71.12 0)
+			(at 220.853 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10823,7 +10823,7 @@
 		(instances
 			(project "uv_led_lamp"
 				(path "/b5ec945f-2085-4e13-a10b-0761defb51ff"
-					(reference "D72")
+					(reference "D60")
 					(unit 1)
 				)
 			)
@@ -10908,7 +10908,7 @@
 		(fields_autoplaced yes)
 		(uuid "f5ea7d89-a95a-4bbc-b76d-4a5e2087cf72")
 		(property "Reference" "D68"
-			(at 210.693 99.06 0)
+			(at 210.693 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10916,7 +10916,7 @@
 			)
 		)
 		(property "Value" "CQY99"
-			(at 210.693 96.52 0)
+			(at 210.693 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10975,7 +10975,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f7473eff-c510-49e6-ada7-a142a37ee80a")
-		(property "Reference" "D88"
+		(property "Reference" "D72"
 			(at 273.177 83.82 0)
 			(effects
 				(font
@@ -11027,7 +11027,7 @@
 		(instances
 			(project "uv_led_lamp"
 				(path "/b5ec945f-2085-4e13-a10b-0761defb51ff"
-					(reference "D88")
+					(reference "D72")
 					(unit 1)
 				)
 			)
@@ -11059,7 +11059,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P12.70mm_Horizontal"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 25.4 118.618 90)
 			(effects
 				(font
@@ -11111,8 +11111,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fb4e1ef7-dc54-4366-b095-6eff927073aa")
-		(property "Reference" "D38"
-			(at 86.233 124.46 0)
+		(property "Reference" "D33"
+			(at 86.233 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11120,7 +11120,7 @@
 			)
 		)
 		(property "Value" "CQY99"
-			(at 86.233 121.92 0)
+			(at 86.233 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11163,7 +11163,7 @@
 		(instances
 			(project "uv_led_lamp"
 				(path "/b5ec945f-2085-4e13-a10b-0761defb51ff"
-					(reference "D38")
+					(reference "D33")
 					(unit 1)
 				)
 			)
@@ -11179,7 +11179,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fd2e95c1-eb4b-4a9c-83f3-20936c7605be")
-		(property "Reference" "D84"
+		(property "Reference" "D80"
 			(at 263.017 109.22 0)
 			(effects
 				(font
@@ -11231,7 +11231,7 @@
 		(instances
 			(project "uv_led_lamp"
 				(path "/b5ec945f-2085-4e13-a10b-0761defb51ff"
-					(reference "D84")
+					(reference "D80")
 					(unit 1)
 				)
 			)
